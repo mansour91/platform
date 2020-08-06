@@ -15,7 +15,8 @@ Develop the Specs sheet for the platform
 7. Budget
 
 *Daily Room:*
-Join Zoom Meeting
+
+- Join Zoom Meeting
 https://us02web.zoom.us/j/81677983029?pwd=K2ZsWU5FNkJPRFZhWlNQdm93Z2VCUT09
 
 - Meeting ID: 816 7798 3029
