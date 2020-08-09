@@ -15,7 +15,7 @@ Understanding the platform cornerstones:
 
 This is the Brainstorming for the Functions needed in the Platform --> Issue #1 (https://github.com/ANTS-COIN/platform/issues/1)
 
-- Selection of the best websites for API's integration and suitable for learners to learn fast and implement: --> Issue #2 (Decision: Best Platform (website) for integration #2)
+- Selection of the best websites for API's integration and suitable for learners to learn fast and implement: --> Issue #2 (https://github.com/ANTS-COIN/platform/issues/2)
 
 A Detailed discussion about approaches to implement the platform. 3 Main Approaches were highlighted:
 
