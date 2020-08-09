@@ -7,7 +7,7 @@ Develop the core cornerstoners for the platform
 
 *cornerstones:*
 1. Design: Website Framework (How do you imagine the website); UX/UI
-2. Software Development: How's the Platform will be? Website? Mobile App?.. etc
+2. Software Development: How's the Platform will be? Web App? Mobile App? Both?.. etc
 3. Blockchain: What Blockchain Technology we will be using? and How?
 
 *Daily Room:*
