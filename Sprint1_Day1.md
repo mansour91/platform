@@ -9,7 +9,9 @@ Understanding the platform cornerstones:
  3. Blockchain Technology. 
 
 **Discussions:**
-3 main discussions:
+4 main discussions:
+- Platform Objectives Priority: --> Read Me 
+
 - List of To-Develop Functions: 
 
 This is the Brainstorming for the Functions needed in the Platform --> Issue #1 (https://github.com/ANTS-COIN/platform/issues/1)
@@ -27,6 +29,8 @@ A Detailed discussion about approaches to implement the platform. 3 Main Approac
 3. Integration of existing platforms _(Github, Wix, Zapier... etc)_ and From scratch development _(especially the Blockchain technology)_
 
 **Decision:**
+
+- Platform Objective #2 is our start.
 
 - For Short Term and Functional Prototype: Approach 3 will be taken.
 
