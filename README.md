@@ -3,16 +3,12 @@ This is the Repository for Ants Coin Platform Development
 
 ## ANTS First Bootcamp
 *Objective:*
-Develop the Specs sheet for the platform
+Develop the core cornerstoners for the platform
 
-*Specs Sheet Document Content:*
-1. Objectives/Scope of Work
-2. Team
-3. Technology
-4. Website Framework (How do you imagine the website)
-5. Milestones
-6. Functions Needed
-7. Budget
+*cornerstones:*
+1. Design: Website Framework (How do you imagine the website); UX/UI
+2. Software Development: How's the Platform will be? Website? Mobile App?.. etc
+3. Blockchain: What Blockchain Technology we will be using? and How?
 
 *Daily Room:*
 
