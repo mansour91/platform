@@ -36,6 +36,8 @@ A Detailed discussion about approaches to implement the platform. 3 Main Approac
 
 - Platform Objective #2 is our start.
 
+- Web App as a base and our start, mobile app to be discussed in long term.
+
 - For Short Term and Functional Prototype: Approach 3 will be taken.
 
 - For Long Term: Develop from Scratch.
