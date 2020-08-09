@@ -1,0 +1,32 @@
+
+Decision on best website integration: 
+
+Option 1:
+*wix*
+
+-Currently, Wix does not offer the option to accept payments on your site in Cryptocurrencies (e.g. Bitcoin, Ethereum, BitCash).
+https://support.wix.com/en/article/request-accepting-payments-in-cryptocurrencies
+
+Option 2:
+
+Building website from scratch:
+
+It will take a long time for young developers and need time for integration with other API's and funtions
+
+
+option 3: 
+However, most of website buiding website are mostly dedicated to a certain targert group such as designers making portfolios, small business exhibiting their goods
+
+As it mentioned here: https://theeverygirl.com/website-integrations/
+
+I found *Zaiper* the most handy integration tool 
+
+As it is:
+
+1)can automate workflow
+
+2)modular website builder
+
+3)able to be integrated with many API's including Blockchain API called "Xooa"
+https://xooa.com/ 
+
