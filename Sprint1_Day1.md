@@ -9,10 +9,12 @@ Understanding the platform cornerstones:
  3. Blockchain Technology. 
 
 **Discussions:**
-2 main discussions:
+3 main discussions:
 - List of To-Develop Functions: 
 
 This is the Brainstorming for the Functions needed in the Platform --> Issue #1 (https://github.com/ANTS-COIN/platform/issues/1)
+
+- Finacing and Bidding system.
 
 - Selection of the best websites for API's integration : --> Issue #2 (https://github.com/ANTS-COIN/platform/issues/2)
 
@@ -33,5 +35,7 @@ A Detailed discussion about approaches to implement the platform. 3 Main Approac
 **Next Steps For Day 2:**
 
 - Building the Backlog.
+
+- Creating the Story Board and priorites.
 
 - Blockchain Technology Brainstorming session
