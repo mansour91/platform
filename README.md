@@ -23,5 +23,5 @@ https://us02web.zoom.us/j/81677983029?pwd=K2ZsWU5FNkJPRFZhWlNQdm93Z2VCUT09
 - Passcode: 394154
 
 ## For Work Documentation:
-- Use Github as the main platform for documentation. *(You can create Projects, upload files to the repo and create wiKi pages.)*
+- Use Github as the main platform for documentation. *(You can create Projects, upload files to the repo.)*
 - Use "Issues" for discussions
