@@ -2,11 +2,11 @@
 
 Understanding the platform cornerstones:
 
-- 1. Design:
+ 1. Design:
 
-- 2. Software Development.
+ 2. Software Development.
 
-- 3. Blockchain Technology. 
+ 3. Blockchain Technology. 
 
 
 **Discussions:**
