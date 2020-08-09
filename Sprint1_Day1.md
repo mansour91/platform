@@ -34,4 +34,4 @@ A Detailed discussion about approaches to implement the platform. 3 Main Approac
 
 - Building the Backlog.
 
-- Blockchain Technology development session
+- Blockchain Technology Brainstorming session
