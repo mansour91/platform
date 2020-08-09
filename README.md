@@ -1,6 +1,13 @@
 # Platform
 This is the Repository for Ants Coin Platform Development
 
+*Project Objectives*
+
+- Objective 1: Avail pay per project (or task) opportunities to the business ecosystem
+- Objective2: Provide a creative, engaging and financially rewarding project-based learning environment for youth interested to work in digital services and software development
+- Objective 3: Create a dynamic educational content creation platform focused on digital services and software development
+
+
 ## ANTS First Bootcamp
 *Objective:*
 Develop the core cornerstoners for the platform
