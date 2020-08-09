@@ -1,0 +1,38 @@
+**Day Objective:**
+
+Understanding the platform cornerstones:
+
+- 1. Design:
+
+- 2. Software Development.
+
+- 3. Blockchain Technology. 
+
+
+**Discussions:**
+3 main discussions:
+- List of To-Develop Functions: 
+
+This is the Brainstorming for the Functions needed in the Platform --> Issue #1 (https://github.com/ANTS-COIN/platform/issues/1)
+
+- Selection of the best websites for API's integration and suitable for learners to learn fast and implement: --> Issue #2 (Decision: Best Platform (website) for integration #2)
+
+A Detailed discussion about approaches to implement the platform. 3 Main Approaches were highlighted:
+
+1. Use Already ready made platforms like wix _(however, Stability and integration with Blockchain technology is questionable)_
+
+2. Develop Platform from Scratch.
+
+3. Integration of existing platforms _(Github, Wix, Zapier... etc)_ and From scratch development _(especially the Blockchain technology)_
+
+**Decision:**
+
+- For Short Term and Functional Prototype: Approach 3 will be taken.
+
+- For Long Term: Develop from Scratch.
+
+**Next Steps For Day 2:**
+
+- Building the Backlog.
+
+- Blockchain Technology development session
