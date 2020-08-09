@@ -1,3 +1,7 @@
+**Date:**
+
+Sunday 9/8/2020
+
 **Day Objective:**
 
 Understanding the platform cornerstones:
@@ -16,7 +20,7 @@ Understanding the platform cornerstones:
 
 This is the Brainstorming for the Functions needed in the Platform --> Issue #1 (https://github.com/ANTS-COIN/platform/issues/1)
 
-- Finacing and Bidding system.
+- Financing and Bidding system.
 
 - Selection of the best websites for API's integration : --> Issue #2 (https://github.com/ANTS-COIN/platform/issues/2)
 
@@ -28,7 +32,7 @@ A Detailed discussion about approaches to implement the platform. 3 Main Approac
 
 3. Integration of existing platforms _(Github, Wix, Zapier... etc)_ and From scratch development _(especially the Blockchain technology)_
 
-**Decision:**
+**Decisions:**
 
 - Platform Objective #2 is our start.
 
