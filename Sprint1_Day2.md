@@ -20,7 +20,9 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 2. An _**"experimentation"**_ section was added for a valuable brainstorming output about solving conflicts of accepting deliverables between clients and earners. Reviewing system will be added and mainly mentors will reviewing as the experts of the platform. It'll be anonymously done with payment required.
 
-- Blockchain TEchnology Brainstorming:
+3. Definition of **Done** was set.
+
+- Blockchain Technology Brainstorming:
 
 **Decisions:**
 
@@ -28,6 +30,9 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 - The _"Complexity"_ section in the backlog will be left for Developer team decision.
 
+- Definition of **Done** is when Earners Submit Final Version and Clients accept submitted version with no more feedback.
+
+- 
 
 **Next Steps For Day 3:**
 
