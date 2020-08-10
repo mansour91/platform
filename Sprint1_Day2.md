@@ -61,4 +61,4 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 2. Updates on Backlog.
 
-3. Desing team to start Brainstorming on the platform UX/UI
+3. Design team to start Brainstorming on the platform UX/UI
