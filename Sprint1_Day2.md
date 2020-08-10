@@ -26,6 +26,18 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 3. Blockchain Technology Brainstorming:
 
+- Discussions about different technologies and questions.
+
+- 3 directions to go in:
+
+1. Use existing Technology with its infrasturcture.
+
+2. Launch Virtual Currencies. Create our own coin along with its infrastructure _(However, we need to take care of regulations)_
+
+3. Go without cryptocurrencies.
+
+- Suggestion: Look at the backlog to see what's actually needed. 
+
 **Decisions:**
 
 - Repo file _**"Product Backlog V01"**_ for final version of Product Backlog.
@@ -38,4 +50,9 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 **Next Steps For Day 3:**
 
-- 
+1. Blockchain Technology:
+- Scan and read more about different technologies.
+
+- Think about Pros and Cons of each direction.
+
+- Dicussion and Co-creation.
