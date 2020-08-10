@@ -58,3 +58,5 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 - Think about Pros and Cons of each direction.
 
 - Dicussion and Co-creation.
+
+2. Updates on Backlog.
