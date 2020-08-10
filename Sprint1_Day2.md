@@ -34,7 +34,7 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 - Definition of **Done** is when Earners Submit Final Version and Clients accept submitted version with no more feedback.
 
-- @AhmedOJ will prepare a list of better software to use for developing backlogs.
+- Ahmed Shamy (@AhmedOJ) will prepare a list of better software to use for developing backlogs.
 
 **Next Steps For Day 3:**
 
