@@ -16,11 +16,13 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 2. Product Backlog --> Issue #4 (https://github.com/ANTS-COIN/platform/issues/4) 
 
-- A detailed discussion about the user stories to include from the earners andentreprises was done. Along with their prioritites, status and maturity that will serve planning next sprints.
+- A detailed discussion about the user stories to include from the earners and enterprises was done. Along with their priorities, status, and maturity that will serve planning next sprints.
 
-- An _**"experimentation"**_ section was added for a valuable brainstorming output about solving conflicts of accepting deliverables between clients and earners. Reviewing system will be added and mainly mentors will reviewing as the experts of the platform. It'll be anonymously done with payment required.
+- An _**"experimentation"**_ section was added for a valuable brainstorming output about solving conflicts of accepting deliverables between clients and earners. **_A reviewing system_** will be added and mainly mentors will be reviewing as the experts of the platform. It'll be anonymously done with payment required.
 
-- Definition of **Done** was set.
+- The definition of **Done** was set.
+
+- What software will be used for future backlogs development.
 
 3. Blockchain Technology Brainstorming:
 
@@ -32,7 +34,7 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 - Definition of **Done** is when Earners Submit Final Version and Clients accept submitted version with no more feedback.
 
-- 
+- @AhmedOJ will prepare a list of better software to use for developing backlogs.
 
 **Next Steps For Day 3:**
 
