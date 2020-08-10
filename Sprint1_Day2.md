@@ -36,6 +36,8 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 3. Go without cryptocurrencies.
 
+- **Important Question:** Will we want to use the crypotcurrencies to be used only within the platform? or outside to the egyptian market?
+
 - Suggestion: Look at the backlog to see what's actually needed. 
 
 **Decisions:**
