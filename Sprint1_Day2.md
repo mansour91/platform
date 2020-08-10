@@ -36,13 +36,13 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 
 3. Go without cryptocurrencies.
 
-- **Important Question:** Will we want to use the crypotcurrencies to be used only within the platform? or outside to the egyptian market?
+- **Important Question:** Will we want to use the cryptocurrencies to be used only within the platform? or outside to the Egyptian market?
 
 - Suggestion: Look at the backlog to see what's actually needed. 
 
 **Decisions:**
 
-- Repo file _**"Product Backlog V01"**_ for final version of Product Backlog.
+- Repo file _**"Product Backlog V01"**_ for first version of Product Backlog.
 
 - The _"Complexity"_ section in the backlog will be left for Developer team decision.
 
@@ -60,3 +60,5 @@ Recording can be found Here https://us02web.zoom.us/rec/share/yvN-BrPy1H9LHp2W-m
 - Dicussion and Co-creation.
 
 2. Updates on Backlog.
+
+3. Desing team to start Brainstorming on the platform UX/UI
