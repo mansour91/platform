@@ -11,7 +11,7 @@ Tuesday 11/8/2020
 **Discussions:** _2 main discussions_
 
 1. Software Development:
-- Product Backlog Update: A detailed discussion about the user journey on the platform and nderstand different users.
+- Product Backlog Update: A detailed discussion about the user journey on the platform and understand different users.
 
 - Discussion about Integrating Platforms. 
 
