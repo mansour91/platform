@@ -28,7 +28,7 @@ Tuesday 11/8/2020
 
 - Repo file _"Product Backlog V02"_ for updated version of Product Backlog.
 
-- User Journey Basic visual in Repo _"User Journey Map V02"_.
+- User Journey Basic visuals in Repo _"User Journey Map V02"_, _"FlowChart"_, _"User Journey 2_V01"_.
 
 **Next Steps For Day 3:**
 
