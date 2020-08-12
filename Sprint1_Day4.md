@@ -18,7 +18,7 @@
 3) Repo file "Product Backlog V03" for updated version of Product Backlog.
 4) User Journey Map
 
-**Next Steps For Day 4:**
+**Next Steps For Day 5:**
 1) choosing Blockchain way/approach the platform will proceed upon.  
 2) UI/UX brainstorming. 
 
