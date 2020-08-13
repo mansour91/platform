@@ -23,7 +23,7 @@
 1) choosing Blockchain way/approach the platform will proceed upon.  
 2) UI/UX brainstorming. 
 
-**Meetings and Decisions**
+**Meetings**
 1) Blockchain @ 10am
 2) UI/UX @ 12 pm
 
