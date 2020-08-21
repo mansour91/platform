@@ -27,3 +27,4 @@ Develop the core cornerstoners for the platform
 ## Antscoin.org:
 - Make Sure you are signed up https://www.antscoin.org/sign-up
 - Make an Account on Hive Network https://www.antscoin.org/tools
+- Join Brain Storming https://calendly.com/antscoin/block-chain
