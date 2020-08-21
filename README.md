@@ -19,11 +19,6 @@ Develop the core cornerstoners for the platform
 
 *Daily Room:*
 
-- Join Zoom Meeting
-https://us02web.zoom.us/j/81677983029?pwd=K2ZsWU5FNkJPRFZhWlNQdm93Z2VCUT09
-
-- Meeting ID: 816 7798 3029
-- Passcode: 394154
 
 ## For Work Documentation:
 - Use Github as the main platform for documentation. *(You can create Projects, upload files to the repo.)*
