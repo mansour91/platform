@@ -17,8 +17,15 @@ Develop the core cornerstoners for the platform
 2. Software Development: How's the Platform will be? Web App? Mobile App? Both?.. etc
 3. Blockchain: What Blockchain Technology we will be using? and How?
 
-*Daily Room:*
 
+## ANTS Second Bootcamp
+*Objective:*
+1. Software development: sprint backlog and implementation, _owner:_ Ahmed Hegazy
+2. Block chain. Hive token and integration, _owner:_ Mohamed El Hossary
+3. Design . Brainstorming and witeframr, _owner:_ Norhan Zahran
+
+*Daily Room:*
+Join Zoom Meeting: https://us02web.zoom.us/j/89521791350?pwd=Nmd4Z2Q1Z2R0bmlVT2VtQWpzOWd5QT09; Meeting ID: 895 2179 1350; Passcode: 661974
 
 ## For Work Documentation:
 - Use Github as the main platform for documentation. *(You can create Projects, upload files to the repo.)*
