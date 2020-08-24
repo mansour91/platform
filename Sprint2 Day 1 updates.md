@@ -45,3 +45,7 @@ Suggestions:
 •	Working on empathy questions which will be put in a survey to be distributed on potential earners via our contacts as Enactus.
 •	If we have time, we can go for interviewing potential earners.
 
+
+**Zoom recording:**
+https://us02web.zoom.us/rec/share/1_FIHZPsrnhOS5XUuGDWV7ceQdzjX6a81ihIrqUJy02eVEZRG9TQ8LD14ZAco6ji?startTime=1598176855000
+
