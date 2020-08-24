@@ -1,31 +1,48 @@
 **Second Sprint – Day 1 Updates**
  	
   **Date:**
+  
 Sunday 23/8/2020
  	
   **Day Objective:**
+  
 1.	Design team on-boarding.
 2.	UX/UI plan & milestones.
  	
+  
   **Discussions:**
+  
 •	UX & UI resources
+
 https://github.com/ANTS-COIN/platform/issues/8#issue-684147527
+
 A discussion about the differences between UX & UI to get all team members on board.
 
+
 •	Earners empathy maps:
+
 https://github.com/ANTS-COIN/platform/issues/9#issue-684158722
+
 4 users were identified:
+
 1.	Client (Phase II).
 2.	Beginner earner: Min. knowledge and an urge to learn
 3.	Intermediate earner: Intermediate knowledge level, either seeks incentives or to learn a new field.
 4.	Expert earner: High level of knowledge and seeking incentives.
 Each team member created an empathy map for each earner type and combined them together.
 
+
 •	Developing empathy questions with users
+
 https://github.com/ANTS-COIN/platform/issues/12#issue-684205736
 
+
+
 •	Suggested ideas for UX (Brainstorming)
+
 https://github.com/ANTS-COIN/platform/issues/10#issue-684179584
+
+
 
 A discussion about challenges that may face earners and solutions to solve it.
 Suggestions:
@@ -37,10 +54,12 @@ Suggestions:
 
  
  **Decisions:**
+ 
 •	The plan was set with milestones.
 
  
  **Next Steps for Day 2:**
+ 
 •	Combining empathy maps of intermediate & Expert earners.
 •	Working on empathy questions which will be put in a survey to be distributed on potential earners via our contacts as Enactus.
 •	If we have time, we can go for interviewing potential earners.
